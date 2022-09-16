@@ -6,7 +6,7 @@
 
 Projeto construido no evento Next Level Week da Rocketseat
 
-🤖[Clique aqui para acessar](https://nandotrystan.github.io/NLW/)
+[🤖Clique aqui para acessar](https://nandotrystan.github.io/NLW/)
 ## Tecnologias
 
 - HTML
